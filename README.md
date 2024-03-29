@@ -66,12 +66,28 @@
 </a>
 </h4>
 </p>
-<p><h3>🗃️ Samples from GitHub Projects
-<a href="https://github.com/EslamFares/Readme/tree/master">
+<!-- ====================================================================== -->
+ <h3>🗃️ Samples from GitHub Projects </h3>
+<h5>Wasly My Order App 
+<a href="https://github.com/EslamFares/WaslyMyOrder_Readme">
 <img align="center" height="20" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
 </a>
-</h3>
-</p>
+</h5>
+<h5>DHB App 
+<a href="https://github.com/EslamFares/DHBApp_Readme">
+<img align="center" height="20" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
+</a>
+</h5>
+<h5>Flutter Payment Getway App 
+<a href="https://github.com/EslamFares/PaymentGetway_Readme">
+<img align="center" height="20" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
+</a>
+</h5>
+<h5>Graduation projects Guide App 
+<a href="https://github.com/EslamFares/GraduationProjectsGuide_Readme">
+<img align="center" height="20" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
+</a>
+</h5>
 
 ### ⚙️ Tech Stack
 <p>
