@@ -25,7 +25,7 @@
 
 - Flutter - Dart
 - API (Dio, Postman) - REST APIs
-- State management ( Bloc - Cubit - Provider )
+- State management (Bloc - Cubit - Provider)
 - Firebase - Cloud Firestore - Cloud Messaging - Firestore Database
 - Local Database (Shared Preferences, Sqflite, Get storag, Hive)
 - Clean Coding - Model-view-view model (MVVM) - Localization
@@ -38,17 +38,17 @@
 <img align="center" height="20" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=4bf478">
 </a>
 </h4>
-<p>(An application to display the price of currencies against the pound and gold prices directly, economic news, Bullion
+<h6 style="color: gray; font-size: 10;">(An application to display the price of currencies against the pound and gold prices directly, economic news, Bullion
  prices in gold companies and A wallet for the user's savings and displaying their price changes)</p>
-</p>
+</h6>
 
 <p><h4>Tasbih  استغفر 
 <a href="https://play.google.com/store/apps/details?id=com.eslamfares.tasbih">
 <img align="center" height="20" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=4bf478">
 </a>
 </h4>
-<p>(More than 10K downloads and rating 4.9, an application for seeking forgiveness with some other advantages)
-</p>
+<h6 style="color: gray; font-size: 10;">(More than 10K downloads and rating 4.9, an application for seeking forgiveness with some other advantages)
+<h6>
 </p>
 
 <p><h4>XO (Tic Tac Toe) Game
@@ -56,8 +56,8 @@
 <img align="center" height="20" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=4bf478">
 </a>
 </h4>
-<p> (XO game with levels that can be played with friends or with the computer)
-</p>
+<h6 style="color: gray; font-size: 10;"> (XO game with levels that can be played with friends or with the computer)
+</h6>
 </p>
 
 <p><h4>Other Apps
