@@ -23,14 +23,15 @@
 
 ### 🖥 Skills
 
-- Flutter - Dart
-- API (Dio, Postman) - REST APIs
-- State management (Bloc - Cubit - Provider)
-- Firebase - Cloud Firestore - Cloud Messaging - Firestore Database
-- Local Database (Shared Preferences, Sqflite, Get storag, Hive)
-- Clean Coding - Model-view-view model (MVVM) - Localization
-- Google Maps - local and remote notifications - Responsive UI - Animations
-- Flutter Payment (Stripe - PayPal - paymob) - Debugging & Unit Testing - SOLID principles
+- 🌍 Flutter - Dart
+- 🚀 API (Dio, Postman) - REST APIs - Pagination
+- 🔐 State management (Bloc - Cubit - Provider)
+- 🧠 Firebase - Cloud Firestore - Cloud Messaging - Firestore Database
+- 💫 Local Database (Shared Preferences, Sqflite, Get storag, Hive)
+- 💡 Clean Coding - Model-view-view model (MVVM) - Localization
+- ⚡ Clean architecture - Dependency injection
+- 🍯 Google Maps - local and remote notifications - Responsive UI - Animations
+- 💎 Flutter Payment (Stripe - PayPal - paymob) - Debugging & Unit Testing - SOLID principles
 
 ### 📱 Samples from my projects
 <p><h4>Book Hub<a href="https://play.google.com/store/apps/details?id=com.eslamfares.book_hub&hl=en&gl=US">
