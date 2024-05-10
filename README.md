@@ -105,6 +105,7 @@
 <p>
 
 ![Bootstrap](https://img.shields.io/badge/-Android%20studio%20-05122A?style=flat-square&logo=Android-studio&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Android%20studio%20-05122A?style=flat-square&logo=Android-studio&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-VS%20Code%20-05122A?style=flat-square&logo=visual%20studio%20code&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=Android&color=353535) 
