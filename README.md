@@ -1,5 +1,10 @@
 <!--<h1 align="center">Hi 👋, I'm Eslam Fares Elazb </h1> -->
-<h1> [![EF](https://github.com/EslamFares/My-Gallery/blob/master/EF%20icon/splash.png)](https://faresdev.netlify.app) <p align="center"> Hi 👋, I'm Eslam Fares Elazb </p> </h1>
+<h1> 
+   <a href="https://faresdev.netlify.app">
+     <img align="center" height="20" src="https://github.com/EslamFares/My-Gallery/blob/master/EF%20icon/splash.png">
+   </a>
+   <p align="center"> Hi 👋, I'm Eslam Fares Elazb </p> 
+</h1>
 
 - 💻 Flutter Developer  👨‍💻
 
