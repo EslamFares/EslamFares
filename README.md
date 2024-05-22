@@ -1,12 +1,12 @@
 <!--<h1 align="center">Hi 👋, I'm Eslam Fares Elazb </h1> -->
-<div>
+<h1 align="center"> 
    <a align="left" href="https://faresdev.netlify.app">
-     <img align="center" height="120" width="120" src="https://github.com/EslamFares/My-Gallery/blob/master/EF%20icon/splash.png">
+     <img align="center" height="85" width="85" src="https://github.com/EslamFares/My-Gallery/blob/master/EF%20icon/splash.png">
    </a>
-   <h1 align="center"> 
+   
   Hi 👋, I'm Eslam Fares Elazb 
       </h1>
-</div>
+
 
 - 💻 Flutter Developer  👨‍💻
 
