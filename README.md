@@ -5,6 +5,8 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **eslamfareselazb@gmail.com**
+ 
+- 🌐 Portfolio **https://faresdev.netlify.app**
 
 - ⚡ Fun fact **always learning**
 
