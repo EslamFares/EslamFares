@@ -3,7 +3,7 @@
    <a href="https://faresdev.netlify.app">
      <img align="center" height="150" width="150" src="https://github.com/EslamFares/My-Gallery/blob/master/EF%20icon/splash.png">
    </a>
-   <p align="center"> Hi 👋, I'm Eslam Fares Elazb </p> 
+   <div align="center"> Hi 👋, I'm Eslam Fares Elazb </div > 
 </h1>
 
 - 💻 Flutter Developer  👨‍💻
