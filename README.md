@@ -19,7 +19,7 @@
 - ⚡ Fun fact **always learning**
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=EslamFares&label=Profile%20views&color=0e75b6&style=flat&base=384" alt="EslamFares ProfileViews" /> 
+ <img src="https://komarev.com/ghpvc/?username=EslamFares&label=Profile%20views&color=0e75b6&style=flat&base=450" alt="EslamFares ProfileViews" /> 
 <!-- <img src="https://img.shields.io/github/followers/EslamFares?label=Follow&style=social" alt="EslamFares followers" />  -->
 </p>
 
