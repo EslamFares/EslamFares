@@ -3,7 +3,7 @@
    <a align="left" href="https://faresdev.netlify.app">
      <img align="left" height="50" width="50" src="https://github.com/EslamFares/My-Gallery/blob/master/EF%20icon/splash.png">
    </a> 
-  Hi 👋, I'm Eslam Fares Elazb 
+  Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> , I'm Eslam Fares Elazb 
 </h1>
 
 </br>
