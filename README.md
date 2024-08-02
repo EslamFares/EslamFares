@@ -44,12 +44,13 @@
 - 💎 Flutter Payment (Stripe - PayPal - paymob) - Debugging & Unit Testing - SOLID principles
 
 ### 📱 Samples from my projects
+<!--
 <p><h4>Book Hub<a href="https://play.google.com/store/apps/details?id=com.eslamfares.book_hub&hl=en&gl=US">
-<img align="center" height="20" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=4bf478">
+<!-- <img align="center" height="20" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=4bf478">
 </a>
 </h4>
 <h6 style="color: gray; font-size: 10;">(Read and preview books by summarizing them and knowing their prices.There are many books in different fields. You can read books even when you are not connected to the Internet by downloading them previously.)</p>
-</h6>
+</h6> 
  
 <p><h4>DHB دهب <a href="https://play.google.com/store/apps/details?id=com.eslamfares.gold_dollar_souq">
 <img align="center" height="20" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=4bf478">
@@ -76,15 +77,15 @@
 <h6 style="color: gray; font-size: 10;"> (XO game with levels that can be played with friends or with the computer)
 </h6>
 </p>
-
-<p><h4>Other Apps
+-->
+<p><h4>Google Play Apps
 <a href="https://play.google.com/store/apps/developer?id=eslamfares&hl=ar&gl=US">
 <img align="center" height="20" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=4bf478">
 </a>
 </h4>
 </p>
 <!-- ====================================================================== -->
- <h3>🗃️ Samples from GitHub Projects </h3>
+<!-- <h3>🗃️ Samples from GitHub Projects </h3>
  <h5>Book Hub
 <a href="https://github.com/EslamFares/Book-Hub-Readme">
 <img align="center" height="20" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
@@ -110,7 +111,7 @@
 <img align="center" height="20" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
 </a>
 </h5>
-
+-->
 ### ⚙️ Tech Stack
 <p>
 
