@@ -34,8 +34,8 @@
 ### 🖥 Skills
 
 - 🌍 Flutter - Dart
-- 🚀 API (Dio, Postman) - REST APIs - Pagination
-- 🔐 State management (Bloc - Cubit - Provider)
+- 🚀 API (Dio, Postman) - REST APIs 
+- 🔐 State management (Bloc - Cubit - Provider - Getx)
 - 🧠 Firebase - Cloud Firestore - Cloud Messaging - Firestore Database
 - 💫 Local Database (Shared Preferences, Sqflite, Get storag, Hive)
 - 💡 Clean Coding - Model-view-view model (MVVM) - Localization
