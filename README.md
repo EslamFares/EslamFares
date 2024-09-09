@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **eslamfareselazb@gmail.com**
+- 📫 How to reach me **eslamfareselazb@outlook.com**
  
 - 🌐 Portfolio **https://faresdev.netlify.app**
 
