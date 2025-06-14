@@ -42,7 +42,7 @@
 - 🔊 Audio/Video Handling – audioplayers for playback and control
 - 🔐 Firebase Suite – Auth, Firestore, Messaging
 - 👤 Authentication – Apple, Google, Facebook, Microsoft login
-- 🗺️ Google Maps – Live tracking, Geolocator integration
+- 🗺️ Google Maps, ArcGIS Maps (live tracking, Geolocator)
 - 🔗 Deep Linking & Notifications – Local & Remote
 - 🧠 Design Patterns – MVC, MVVM, Clean Architecture, DI
 - 🌍 Networking – REST APIs, Dio, http, JSON
