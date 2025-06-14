@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **eslamfareselazb@outlook.com**
  
-- 🌐 Portfolio **https://faresdev.netlify.app**
+- 🌐 Portfolio **https://eslam-fares.netlify.app**
 
 - ⚡ Fun fact **always learning**
 
