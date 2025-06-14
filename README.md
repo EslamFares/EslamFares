@@ -33,15 +33,26 @@
 
 ### 🖥 Skills
 
-- 🌍 Flutter - Dart
-- 🚀 API (Dio, Postman) - REST APIs 
-- 🔐 State management (Bloc - Cubit - Provider - Getx)
-- 🧠 Firebase - Cloud Firestore - Cloud Messaging - Firestore Database
-- 💫 Local Database (Shared Preferences, Sqflite, Get storag, Hive)
-- 💡 Clean Coding - Model-view-view model (MVVM) - Localization
-- ⚡ Clean architecture - Dependency injection
-- 🍯 Google Maps - local and remote notifications - Responsive UI - Animations
-- 💎 Flutter Payment (Stripe - PayPal - paymob) - Debugging & Unit Testing - SOLID principles
+- ⚡ Flutter & Dart – Clean, maintainable, scalable mobile development
+- 🔄 State Management – Bloc, Cubit, Provider, GetX
+- 🌐 Localization – Multi-language support & internationalization
+- 🚀 App Deployment – Published on Play Store & App Store
+- 💳 Payment Integration – Stripe, PayPal, Paymob, MyFatoorah, Moyasar, Apple Pay
+- 📡 Real-time Communication – Agora, Zegocloud, Socket.io, Pusher
+- 🔊 Audio/Video Handling – audioplayers for playback and control
+- 🔐 Firebase Suite – Auth, Firestore, Messaging
+- 👤 Authentication – Apple, Google, Facebook, Microsoft login
+- 🗺️ Google Maps – Live tracking, Geolocator integration
+- 🔗 Deep Linking & Notifications – Local & Remote
+- 🧠 Design Patterns – MVC, MVVM, Clean Architecture, DI
+- 🌍 Networking – REST APIs, Dio, http, JSON
+- 🗄️ Local Storage – Shared Preferences, Sqflite, GetStorage, Hive, SQL
+- 🐞 Debugging & Testing – Unit testing, troubleshooting, logs
+- 📦 Deployment Tools – Shorebird for OTA updates
+- 🧩 UI/UX – Responsive design, animations
+- 🧰 Tools – Android Studio, VS Code, Xcode, Git, GitHub, Postman
+- 🎨 Design – Figma, Adobe XD
+- 🧾 Languages – Dart, Python, Java, HTML, CSS
 
 ### 📱 Samples from my projects
 <!--
