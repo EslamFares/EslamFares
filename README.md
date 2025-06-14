@@ -1,11 +1,11 @@
 <!--<h1 align="center">Hi 👋, I'm Eslam Fares Elazb </h1> -->
 <h1 align="center"> 
    <a align="left" href="https://faresdev.netlify.app">
-     <img align="left" height="50" width="50" src="https://github.com/EslamFares/My-Gallery/blob/master/f_logo/logo%20white%20trans.png">
+     <img align="left" height="50" width="50" src="https://github.com/EslamFares/My-Gallery/blob/master/f_logo/logo%20amber%20trans.png">
    </a> 
   Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> , I'm Eslam Fares Elazb 
 </h1>
-
+<link rel="stylesheet" href="https://unpkg.com/@vectopus/atlas-icons/style.css">
 </br>
 
 - 💻 Flutter Developer  👨‍💻
