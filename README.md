@@ -5,7 +5,7 @@
    </a> 
   Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> , I'm Eslam Fares Elazb 
 </h1>
-<img src="https://unpkg.com/@vectopus/atlas-icons/icons/flutter.svg" width="24" height="24" alt="Flutter Icon">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
 </br>
 
 - 💻 Flutter Developer  👨‍💻
