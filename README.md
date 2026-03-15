@@ -3,7 +3,7 @@
    <a align="left" href="https://eslam-fares.netlify.app">
      <img align="left" height="50" width="50" src="https://github.com/EslamFares/My-Gallery/blob/master/f_logo/logo%20amber%20trans.png">
    </a> 
-  Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> , I'm Eslam Fares Elazab 
+  Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> , I'm Eslam Elazab 
 </h1>
 </br>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **eslamfareselazb@outlook.com**
+- 📫 How to reach me **eslamelazab111@outlook.com**
  
 - 🌐 Portfolio **https://eslam-fares.netlify.app**
 
@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eslamfares/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](islamfareselazb@gmail.com )
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eslamelazab/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](eslamelazab111@gmail.com )
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/01063735601)
 
 <!--[![Website Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/EslamFaresElazb)
