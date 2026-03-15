@@ -2,7 +2,8 @@
 <h1 align="center"> 
    <!-- defalut logo -->
    <a align="left" href="https://eslam-fares.netlify.app">
-     <img align="left" height="50" width="50" src="https://github.com/EslamFares/My-Gallery/blob/master/e_lab/white_trans.png">
+     <img align="left" height="50" width="50" src="https://github.com/EslamFares/My-Gallery/blob/master/e_lab/teal_trans.png">
+      <!--  <img align="left" height="50" width="50" src="https://github.com/EslamFares/My-Gallery/blob/master/e_lab/white_trans.png"> -->
    </a> 
    <!-- theme logo -->
     <!--
