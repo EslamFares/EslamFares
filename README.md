@@ -31,28 +31,31 @@
 <!--[![Website Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/EslamFaresElazb)
 -->
 
-### 🖥 Skills
+### 🖥️ Technical Skills
 
-- ⚡ Flutter & Dart – Clean, maintainable, scalable mobile development
-- 🔄 State Management – Bloc, Cubit, Provider, GetX
-- 🌐 Localization – Multi-language support & internationalization
-- 🚀 App Deployment – Published on Play Store & App Store
-- 💳 Payment Integration – Stripe, PayPal, Paymob, MyFatoorah, Moyasar, Apple Pay
-- 📡 Real-time Communication – Agora, Zegocloud, Socket.io, Pusher
-- 🔊 Audio/Video Handling – audioplayers for playback and control
-- 🔐 Firebase Suite – Auth, Firestore, Messaging
-- 👤 Authentication – Apple, Google, Facebook, Microsoft login
-- 🗺️ Google Maps, ArcGIS Maps (live tracking, Geolocator)
-- 🔗 Deep Linking & Notifications – Local & Remote
-- 🧠 Design Patterns – MVC, MVVM, Clean Architecture, DI
-- 🌍 Networking – REST APIs, Dio, http, JSON
-- 🗄️ Local Storage – Shared Preferences, Sqflite, GetStorage, Hive, SQL
-- 🐞 Debugging & Testing – Unit testing, troubleshooting, logs
-- 📦 Deployment Tools – Shorebird for OTA updates
-- 🧩 UI/UX – Responsive design, animations
-- 🧰 Tools – Android Studio, VS Code, Xcode, Git, GitHub, Postman
-- 🎨 Design – Figma, Adobe XD
-- 🧾 Languages – Dart, Python, Java, HTML, CSS
+#### 📱 Mobile Development
+* **Flutter & Dart:** Expert in clean, maintainable, and scalable cross-platform development.
+* **Architecture:** Design Patterns (MVC, MVVM), Clean Architecture, and Dependency Injection.
+* **State Management:** Bloc, Cubit, Provider, and GetX.
+* **UI/UX:** Advanced Animations, Responsive Design, and Localization (Multi-language support).
+* **Testing:** Debugging, Unit Testing, Troubleshooting, and Logs.
+
+#### 🔗 Backend & Integration
+* **Firebase Suite:** Auth, Firestore, and Cloud Messaging (FCM).
+* **Networking:** REST APIs using Dio, http, and JSON serialization.
+* **Real-time:** Socket.io, SignalR, Pusher, Agora, and Zegocloud.
+* **Payment Gateways:** Stripe, PayPal, Paymob, MyFatoorah, Moyasar, and Apple Pay.
+* **Connectivity:** Deep Linking and Notifications (Local & Remote).
+
+#### 💾 Storage & Deployment
+* **Databases:** Hive, Sqflite, GetStorage, Shared Preferences, and Flutter Secure Storage.
+* **App Publishing:** Published on Google Play Store & Apple App Store.
+* **OTA Updates:** Implementation of Shorebird for Over-The-Air updates.
+
+#### 🗺️ Maps & Tools
+* **Geospatial:** Google Maps and ArcGIS Maps (Live Tracking, Geolocator).
+* **Dev Tools:** Android Studio, VS Code, Xcode, Git, GitHub, Postman.
+* **Design:** Figma and Adobe XD.
 
 ### 📱 Samples from my projects
 <!--
