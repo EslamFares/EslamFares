@@ -5,11 +5,13 @@
      <img align="left" height="50" width="50" src="https://github.com/EslamFares/My-Gallery/blob/master/e_lab/white_trans.png">
    </a> 
    <!-- theme logo -->
+    <!--
    <a align="left" href="https://eslam-fares.netlify.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" src="https://github.com/EslamFares/My-Gallery/blob/master/e_lab/black_trans.png">
     <img align="left" height="50" width="50" src="https://github.com/EslamFares/My-Gallery/blob/master/e_lab/white_trans.png">
   </picture>
+      -->
 </a>
   Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> , I'm Eslam Elazab 
 </h1>
