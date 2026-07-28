@@ -6,6 +6,31 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=54A2FF&center=true&vCenter=true&width=600&lines=Software+Developer;Flutter+%26+Dart+Specialist;AI+%2B+Mobile+Enthusiast;Building+Pixel-Perfect+Apps" alt="Typing SVG" />
 
 </div>
+<!-- Animated intro strip -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/assets/gif/git_code.gif" alt="Coding Animation" width="50%" style="border-radius: 12px;" />
+</p>
+
+---
+
+### 🧭 About Me
+
+```dart
+class Developer {
+  final String name = "Eslam Fares";
+  final String role = "Flutter Developer";
+
+  final String Portfolio = "https://eslamfares.github.io";
+  final List<String> stack = ["eslamelazab111@gmail.com"];
+
+  final List<String> currentlyExploring = ["💬 Ask me about anything"];
+
+  void build() {
+    print("⚡️ Fun fact always learning");
+  }
+}
+```
+
 
 <!--<h1 align="center">Hi 👋, I'm Eslam Fares Elazb </h1> -->
 <h1 align="center"> 
@@ -27,15 +52,15 @@
 </h1>
 </br>
 
-- 💻 Flutter Developer 
+<!-- - 💻 Flutter Developer  -->
 
-- 💬 Ask me about **anything**
+<!-- - 💬 Ask me about **anything** -->
 
 - 📫 How to reach me **eslamelazab111@outlook.com**
  
 - 🌐 Portfolio **https://eslamfares.github.io**
 
-- ⚡ Fun fact **always learning**
+<!-- - ⚡ Fun fact **always learning** -->
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=EslamFares&label=Profile%20views&color=0e75b6&style=flat&base=450" alt="EslamFares ProfileViews" /> 
