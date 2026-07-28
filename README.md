@@ -1,3 +1,12 @@
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:54A2FF,100:02569B&height=200&section=header&text=Eslam%20Elazab&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer&descAlignY=55&descSize=18" width="100%" alt="Header Banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=54A2FF&center=true&vCenter=true&width=600&lines=Software+Developer;Flutter+%26+Dart+Specialist;AI+%2B+Mobile+Enthusiast;Building+Pixel-Perfect+Apps" alt="Typing SVG" />
+
+</div>
+
 <!--<h1 align="center">Hi 👋, I'm Eslam Fares Elazb </h1> -->
 <h1 align="center"> 
    <!-- defalut logo -->
@@ -163,5 +172,7 @@
 </div>
 
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:54A2FF&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
+</div>
   
