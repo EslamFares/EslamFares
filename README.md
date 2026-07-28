@@ -1,7 +1,7 @@
 <!--<h1 align="center">Hi 👋, I'm Eslam Fares Elazb </h1> -->
 <h1 align="center"> 
    <!-- defalut logo -->
-   <a align="left" href="https://eslam-fares.netlify.app">
+   <a align="left" href="https://eslamfares.github.io">
      <!-- <img align="left" height="50" width="50" src="https://github.com/EslamFares/My-Gallery/blob/master/e_lab/teal_trans.png"> -->
        <img align="left" height="50" width="50" src="https://github.com/EslamFares/My-Gallery/blob/master/e_lab/white_trans.png">
    </a> 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **eslamelazab111@outlook.com**
  
-- 🌐 Portfolio **https://eslam-fares.netlify.app**
+- 🌐 Portfolio **https://eslamfares.github.io**
 
 - ⚡ Fun fact **always learning**
 
