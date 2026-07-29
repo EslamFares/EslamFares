@@ -6,10 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=54A2FF&center=true&vCenter=true&width=600&lines=Software+Developer;Flutter+%26+Dart+Specialist;AI+%2B+Mobile+Enthusiast;Building+Pixel-Perfect+Apps" alt="Typing SVG" />
 
 </div>
-<!-- Animated intro strip -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/assets/gif/git_code.gif" alt="Coding Animation" width="50%" style="border-radius: 12px;" />
-</p>
 
 ---
 
@@ -17,7 +13,7 @@
 
 ```dart
 class Developer {
-  final String name = "Eslam Fares";
+  final String name = "Eslam Elazab";
   final String role = "Flutter Developer";
 
   final String portfolio = "https://eslamfares.github.io";
@@ -196,6 +192,10 @@ class Developer {
   <img width="33%"  align="top" src="https://github-readme-stats.vercel.app/api?username=EslamFares&show_icons=true&locale=en&layout=compact" alt="EslamFares stats" />
 </div>
 
+<!-- Animated intro strip -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/assets/gif/git_code.gif" alt="Coding Animation" width="100%" style="border-radius: 12px;" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:54A2FF&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
