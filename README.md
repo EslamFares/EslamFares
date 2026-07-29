@@ -17,17 +17,17 @@
 
 ```dart
 class Developer {
-  final String name = "Eslam Fares";
-  final String role = "Flutter Developer";
+  final String name = "Eslam Fares";
+  final String role = "Flutter Developer";
 
-  final String Portfolio = "https://eslamfares.github.io";
-  final List<String> stack = ["eslamelazab111@gmail.com"];
+  final String portfolio = "https://eslamfares.github.io";
 
-  final List<String> currentlyExploring = ["💬 Ask me about anything"];
+  final List<String> emails = [ "eslamelazab111@gmail.com"];
+  final List<String> askMeAbout = ["💬 Ask me about anything"];
 
-  void build() {
-    print("⚡️ Fun fact always learning");
-  }
+  void build() {
+    print("⚡️ Fun fact always learning");
+  }
 }
 ```
 
