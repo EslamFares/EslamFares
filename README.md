@@ -192,6 +192,8 @@ class Developer {
   <img width="33%"  align="top" src="https://github-readme-stats.vercel.app/api?username=EslamFares&show_icons=true&locale=en&layout=compact" alt="EslamFares stats" />
 </div>
 
+</br>
+
 <!-- Animated intro strip -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/assets/gif/git_code.gif" alt="Coding Animation" width="100%" style="border-radius: 12px;" />
