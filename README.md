@@ -7,26 +7,6 @@
 
 </div>
 
----
-
-### 🧭 About Me
-
-```dart
-class Developer {
-  final String name = "Eslam Elazab";
-  final String role = "Flutter Developer";
-
-  final String portfolio = "https://eslamfares.github.io";
-
-  final List<String> emails = [ "eslamelazab111@gmail.com"];
-  final List<String> askMeAbout = ["💬 Ask me about anything"];
-
-  void build() {
-    print("⚡️ Fun fact always learning");
-  }
-}
-```
-
 
 <!--<h1 align="center">Hi 👋, I'm Eslam Fares Elazb </h1> -->
 <h1 align="center"> 
@@ -71,6 +51,26 @@ class Developer {
 
 <!--[![Website Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/EslamFaresElazb)
 -->
+
+---
+
+### 🧭 About Me
+
+```dart
+class Developer {
+  final String name = "Eslam Elazab";
+  final String role = "Flutter Developer";
+
+  final String portfolio = "https://eslamfares.github.io";
+
+  final List<String> emails = [ "eslamelazab111@gmail.com"];
+  final List<String> askMeAbout = ["💬 Ask me about anything"];
+
+  void build() {
+    print("⚡️ Fun fact always learning");
+  }
+}
+```
 
 ### 🖥️ Technical Skills
 
